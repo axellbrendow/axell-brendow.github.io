@@ -16,7 +16,7 @@ const ImageContainer = styled.a`
 `;
 
 const Image = ({ src, alt, link }: Record<string, string>) => (
-  <ImageContainer href={link} key={src} target="_blank">
+  <ImageContainer href={link} key={src} target="_blank" rel="noopener">
     <img src={src} alt={alt} title={alt} className="rounded" />
   </ImageContainer>
 );

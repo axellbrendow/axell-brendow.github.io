@@ -17,7 +17,7 @@ const ContactContainer = ({
   anchorChildren,
 }: Contact) => (
   <li key={classNameLi} className={`${classNameLi} col-sm-6 col-md`}>
-    <a href={anchorHref} target="_blank">
+    <a href={anchorHref} target="_blank" rel="noopener">
       <i className={`${iconType} fa-${iconName}`} /> {anchorChildren}
     </a>
   </li>

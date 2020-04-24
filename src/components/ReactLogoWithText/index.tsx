@@ -13,7 +13,7 @@ const ReactLogoContainerStyle = styled.div`
 
 const ReactLogoWithText = ({ text = "Made in React :D" }) => (
   <ReactLogoContainerStyle>
-    <a href="https://pt-br.reactjs.org/" target="_blank">
+    <a href="https://pt-br.reactjs.org/" target="_blank" rel="noopener">
       <ReactLogo />
     </a>
     <p>{text}</p>
