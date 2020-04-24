@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/static/js/main.6a6501ad.chunk.js",
+    "main.js.map": "/static/js/main.6a6501ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef0bb6e6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef0bb6e6.js.map",
+    "static/js/2.f5973092.chunk.js": "/static/js/2.f5973092.chunk.js",
+    "static/js/2.f5973092.chunk.js.map": "/static/js/2.f5973092.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b6b41dda52dc76c63582e2d5449ecdb3.js": "/precache-manifest.b6b41dda52dc76c63582e2d5449ecdb3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.f5973092.chunk.js.LICENSE.txt": "/static/js/2.f5973092.chunk.js.LICENSE.txt",
+    "static/media/axell.png": "/static/media/axell.f7079923.png",
+    "static/media/portfolio-alura-html5-css3.png": "/static/media/portfolio-alura-html5-css3.dfca6105.png",
+    "static/media/portfolio-graphs.png": "/static/media/portfolio-graphs.75189c22.png",
+    "static/media/portfolio-omnistack10-devradar-frontend.jpeg": "/static/media/portfolio-omnistack10-devradar-frontend.1d87bc53.jpeg",
+    "static/media/portfolio-omnistack10-devradar-mobile.jpeg": "/static/media/portfolio-omnistack10-devradar-mobile.bbcf4e49.jpeg",
+    "static/media/portfolio-pingcrc-maquinas.png": "/static/media/portfolio-pingcrc-maquinas.73285578.png",
+    "static/media/portfolio-star-wars-lddm.png": "/static/media/portfolio-star-wars-lddm.cc3ec10c.png",
+    "static/media/portfolio-starwarsapp-levelup.png": "/static/media/portfolio-starwarsapp-levelup.88757ed2.png",
+    "static/media/portfolio-super-store.png": "/static/media/portfolio-super-store.25db489f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef0bb6e6.js",
+    "static/js/2.f5973092.chunk.js",
+    "static/js/main.6a6501ad.chunk.js"
+  ]
+}
