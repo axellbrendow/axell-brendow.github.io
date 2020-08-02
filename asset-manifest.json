@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/static/js/main.6a6501ad.chunk.js",
-    "main.js.map": "/static/js/main.6a6501ad.chunk.js.map",
+    "main.js": "/static/js/main.1a2b5e0f.chunk.js",
+    "main.js.map": "/static/js/main.1a2b5e0f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ef0bb6e6.js",
     "runtime-main.js.map": "/static/js/runtime-main.ef0bb6e6.js.map",
     "static/js/2.f5973092.chunk.js": "/static/js/2.f5973092.chunk.js",
     "static/js/2.f5973092.chunk.js.map": "/static/js/2.f5973092.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b6b41dda52dc76c63582e2d5449ecdb3.js": "/precache-manifest.b6b41dda52dc76c63582e2d5449ecdb3.js",
+    "precache-manifest.1f100f709e3b4dad2c522237e328be6c.js": "/precache-manifest.1f100f709e3b4dad2c522237e328be6c.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.f5973092.chunk.js.LICENSE.txt": "/static/js/2.f5973092.chunk.js.LICENSE.txt",
-    "static/media/axell.png": "/static/media/axell.f7079923.png",
+    "static/media/axell.png": "/static/media/axell.a9a4e4d9.png",
     "static/media/portfolio-alura-html5-css3.png": "/static/media/portfolio-alura-html5-css3.dfca6105.png",
     "static/media/portfolio-graphs.png": "/static/media/portfolio-graphs.75189c22.png",
     "static/media/portfolio-omnistack10-devradar-frontend.jpeg": "/static/media/portfolio-omnistack10-devradar-frontend.1d87bc53.jpeg",
@@ -23,6 +23,6 @@
   "entrypoints": [
     "static/js/runtime-main.ef0bb6e6.js",
     "static/js/2.f5973092.chunk.js",
-    "static/js/main.6a6501ad.chunk.js"
+    "static/js/main.1a2b5e0f.chunk.js"
   ]
 }
