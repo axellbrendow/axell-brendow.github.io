@@ -6,7 +6,7 @@ import Section from "components/Section";
 import TitleAndCodeDivider from "components/TitleAndCodeDivider";
 import ReactLogoWithText from "components/ReactLogoWithText";
 
-import MyPhoto from "assets/axell.png";
+import MyPhoto from "assets/axell.jpg";
 
 const color = "white";
 
